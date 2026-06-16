@@ -47,4 +47,4 @@ Dashboard Features
 - Matrix table with conditional formatting for outlet-level 
   drill-down across all KPIs
 - Line chart showing sales trend by outlet establishment year
-<img width="1407" height="820" alt="Screenshot 2026-06-15 175714" src="https://github.com/user-attachments/assets/7fca17c8-7dd2-4460-8785-e4035ef3cd2a" />
+<img width="1918" height="1073" alt="Screenshot 2026-06-15 225751" src="https://github.com/user-attachments/assets/a25cf607-05f9-4d3a-b613-626ad7dddcb5" />
